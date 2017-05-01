@@ -1,0 +1,36 @@
+{
+	"title": "Joe Duvall",
+	"home_page_url": "http://joe.duvall.micro.blog/",
+	"feed_url": "http://joe.duvall.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://joe.duvall.micro.blog/2017/04/30/on-ios-changing.html",
+			"content_html": "<p>On iOS 10.3.1, changing an app’s icon only triggers a pop-up on some of my apps. Is anyone else seeing this?</p>\n\n<p>For me, these apps <em>never</em> show a pop-up:</p>\n\n<ul>\n  <li>Narwhal</li>\n  <li>Hello Weather</li>\n</ul>\n\n<p>And these <em>always</em> show it:</p>\n\n<ul>\n  <li>MLB At Bat</li>\n  <li>Overcast</li>\n</ul>\n",
+			"date_published": "2017-04-30T07:11:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/04/30/on-ios-changing.html"
+		},
+		
+		{
+			"id": "http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html",
+			"content_html": "<p>If you enjoy Tetris, you won’t be disappointed by Puyo Puyo Tetris for Switch. Note that local multiplayer isn’t great – the controls were clearly built for d-pad, and playing with a control stick (Pro Controller or single Joy-Con) leads to lots of frustrating accidental input. </p>\n",
+			"date_published": "2017-04-29T23:49:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html"
+		},
+		
+		{
+			"id": "http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html",
+			"content_html": "<p>I’m really enjoying Mario Kart 8 Deluxe for Nintendo Switch! It’s great to have a portable Mario Kart game with no compromises. Online matchmaking needs some work but it’s very solid otherwise. </p>\n",
+			"date_published": "2017-04-29T23:38:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html"
+		},
+		
+		{
+			"id": "http://joe.duvall.micro.blog/2017/04/29/hello-microblog.html",
+			"content_html": "<p>Hello, Micro.blog!</p>\n",
+			"date_published": "2017-04-29T00:37:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/04/29/hello-microblog.html"
+		}
+		
+	]
+}
