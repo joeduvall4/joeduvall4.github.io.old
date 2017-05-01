@@ -1,0 +1,58 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+# - name: "[TITLE]"
+
+# - title: "[TITLE]"
+# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
+# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
+# - markdown: kramdown
+# - user# - name: "[USERNAME]"
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Joe Duvall"
+tagline: ""
+description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+baseurl: ""
+url: "http://joe.duvall.micro.blog"
+markdown: "kramdown"
+username: "joeduvall4"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Joe Duvall"
+name: "Joe Duvall"
+gravatar_hash: "492b074cb0f5e2e9ea55dfab4d89c35f"
+avatar: "http://www.gravatar.com/avatar/492b074cb0f5e2e9ea55dfab4d89c35f?s=160"
+full_name: "Joe Duvall"
+bio: ""
+twitter_username: ""
+github_username: ""
