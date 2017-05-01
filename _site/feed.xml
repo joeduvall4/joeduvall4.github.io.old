@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Joe Duvall</title>
+    <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
+    <link>http://joe.duvall.micro.blog/</link>
+    <pubDate>Mon, 01 May 2017 18:38:56 +0000</pubDate>
+    <lastBuildDate>Mon, 01 May 2017 18:38:56 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;On iOS 10.3.1, changing an app’s icon only triggers a pop-up on some of my apps. Is anyone else seeing this?&lt;/p&gt;
+
+&lt;p&gt;For me, these apps &lt;em&gt;never&lt;/em&gt; show a pop-up:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Narwhal&lt;/li&gt;
+  &lt;li&gt;Hello Weather&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And these &lt;em&gt;always&lt;/em&gt; show it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MLB At Bat&lt;/li&gt;
+  &lt;li&gt;Overcast&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 30 Apr 2017 07:11:00 +0000</pubDate>
+        <link>http://joe.duvall.micro.blog/2017/04/30/on-ios-changing.html</link>
+        <guid isPermaLink="true">http://joe.duvall.micro.blog/2017/04/30/on-ios-changing.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;If you enjoy Tetris, you won’t be disappointed by Puyo Puyo Tetris for Switch. Note that local multiplayer isn’t great – the controls were clearly built for d-pad, and playing with a control stick (Pro Controller or single Joy-Con) leads to lots of frustrating accidental input. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Apr 2017 23:49:00 +0000</pubDate>
+        <link>http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html</link>
+        <guid isPermaLink="true">http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;I’m really enjoying Mario Kart 8 Deluxe for Nintendo Switch! It’s great to have a portable Mario Kart game with no compromises. Online matchmaking needs some work but it’s very solid otherwise. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Apr 2017 23:38:00 +0000</pubDate>
+        <link>http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html</link>
+        <guid isPermaLink="true">http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Hello, Micro.blog!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Apr 2017 00:37:00 +0000</pubDate>
+        <link>http://joe.duvall.micro.blog/2017/04/29/hello-microblog.html</link>
+        <guid isPermaLink="true">http://joe.duvall.micro.blog/2017/04/29/hello-microblog.html</guid>
+      </item>
+    
+  </channel>
+</rss>
