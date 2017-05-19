@@ -1,8 +1,16 @@
 {
+	"version": "https://jsonfeed.org/version/1",
 	"title": "Joe Duvall",
 	"home_page_url": "http://joe.duvall.micro.blog/",
 	"feed_url": "http://joe.duvall.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://joe.duvall.micro.blog/2017/05/19/things-from-cultured.html",
+			"content_html": "<p>Things 3 from Cultured Code looks fantastic. The limitations of it worry me a bit, but I’m hoping I can integrate it into my workflow. </p>\n",
+			"date_published": "2017-05-19T14:22:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/05/19/things-from-cultured.html"
+		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/05/03/hulu-live-tv.html",
