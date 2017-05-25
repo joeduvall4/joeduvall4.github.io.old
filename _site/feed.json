@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://joe.duvall.micro.blog/2017/05/25/published-my-first.html",
+			"content_html": "<p>Published <a href=\"https://ifttt.com/applets/QrZgNXLm-turn-off-hue-and-caseta-lights-when-nest-is-set-to-away\">my first custom IFTTT Applet</a>! Their new Maker platform makes IFTTT much more useful and powerful.</p>\n",
+			"date_published": "2017-05-25T04:52:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/05/25/published-my-first.html"
+		},
+		
+		{
 			"id": "http://joe.duvall.micro.blog/2017/05/22/slingstudio-looks-pretty.html",
 			"content_html": "<p>SlingStudio looks pretty cool. It’s a shame I don’t have a use for it. I guess now we know why Slingbox hasn’t been getting much attention lately… <a href=\"https://www.myslingstudio.com/slingstudio\">www.myslingstudio.com/slingstud…</a></p>\n",
 			"date_published": "2017-05-22T16:57:00+00:00",
