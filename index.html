@@ -15,7 +15,7 @@ layout: default
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <div class="list-item h-entry">
     <div class="content post e-content">
       {{ post.content }}
@@ -27,6 +27,10 @@ layout: default
 {% endfor %}
 {% endif %}
 </div>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
 
 <footer class="site-footer">
 	<p class="text">{{ site.description }}</p>
