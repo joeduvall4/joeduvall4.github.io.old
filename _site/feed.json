@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://joe.duvall.micro.blog/2017/06/01/wow-right-when.html",
+			"content_html": "<p>Wow. Right when I thought Nintendo might be getting the hang of online gaming! <a href=\"https://arstechnica.com/gaming/2017/06/switchs-first-chat-headset-is-a-mess-and-thats-nintendos-fault/\">arstechnica.com/gaming/20…</a></p>\n",
+			"date_published": "2017-06-01T18:19:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/06/01/wow-right-when.html"
+		},
+		
+		{
 			"id": "http://joe.duvall.micro.blog/2017/05/31/managed-to-get.html",
 			"content_html": "<p>Managed to get tickets to The Talk Show Live from WWDC 2017 before they sold out! Super excited!</p>\n",
 			"date_published": "2017-05-31T16:13:00+00:00",
