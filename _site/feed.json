@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://joe.duvall.micro.blog/2017/06/06/ios-location-privacy.html",
+			"content_html": "<p>iOS 11 Location Privacy settings allows the user to select “While Using The App”, even if the app doesn’t offer that as an option! Glad to see that Apple continues to protect users’ privacy!</p>\n\n<p><img src=\"http://joe.duvall.micro.blog/uploads/2017/7d6bbdd1d7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-06T08:27:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/06/06/ios-location-privacy.html"
+		},
+		
+		{
 			"id": "http://joe.duvall.micro.blog/2017/06/01/wow-right-when.html",
 			"content_html": "<p>Wow. Right when I thought Nintendo might be getting the hang of online gaming! <a href=\"https://arstechnica.com/gaming/2017/06/switchs-first-chat-headset-is-a-mess-and-thats-nintendos-fault/\">arstechnica.com/gaming/20…</a></p>\n",
 			"date_published": "2017-06-01T18:19:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>I’m really enjoying Mario Kart 8 Deluxe for Nintendo Switch! It’s great to have a portable Mario Kart game with no compromises. Online matchmaking needs some work but it’s very solid otherwise. </p>\n",
 			"date_published": "2017-04-29T23:38:00+00:00",
 			"url": "http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html"
-		},
-		
-		{
-			"id": "http://joe.duvall.micro.blog/2017/04/29/hello-microblog.html",
-			"content_html": "<p>Hello, Micro.blog!</p>\n",
-			"date_published": "2017-04-29T00:37:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/04/29/hello-microblog.html"
 		}
 		
 	]
