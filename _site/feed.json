@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://joe.duvall.micro.blog/2017/06/06/homekit-in-ios.html",
+			"content_html": "<p>HomeKit in iOS 11 FINALLY supports using multiple devices to determine if anyone is home! </p>\n",
+			"date_published": "2017-06-06T08:30:00+00:00",
+			"url": "http://joe.duvall.micro.blog/2017/06/06/homekit-in-ios.html"
+		},
+		
+		{
 			"id": "http://joe.duvall.micro.blog/2017/06/06/ios-location-privacy.html",
 			"content_html": "<p>iOS 11 Location Privacy settings allows the user to select “While Using The App”, even if the app doesn’t offer that as an option! Glad to see that Apple continues to protect users’ privacy!</p>\n\n<p><img src=\"http://joe.duvall.micro.blog/uploads/2017/7d6bbdd1d7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-06T08:27:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>If you enjoy Tetris, you won’t be disappointed by Puyo Puyo Tetris for Switch. Note that local multiplayer isn’t great – the controls were clearly built for d-pad, and playing with a control stick (Pro Controller or single Joy-Con) leads to lots of frustrating accidental input. </p>\n",
 			"date_published": "2017-04-29T23:49:00+00:00",
 			"url": "http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html"
-		},
-		
-		{
-			"id": "http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html",
-			"content_html": "<p>I’m really enjoying Mario Kart 8 Deluxe for Nintendo Switch! It’s great to have a portable Mario Kart game with no compromises. Online matchmaking needs some work but it’s very solid otherwise. </p>\n",
-			"date_published": "2017-04-29T23:38:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/04/29/im-really-enjoying.html"
 		}
 		
 	]
