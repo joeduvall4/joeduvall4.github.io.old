@@ -1,78 +1,78 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Joe Duvall",
-	"home_page_url": "http://joe.duvall.micro.blog/",
-	"feed_url": "http://joe.duvall.micro.blog/feed.json",
+	"home_page_url": "http://micro.blog.joe.duvall.me/",
+	"feed_url": "http://micro.blog.joe.duvall.me/feed.json",
 	"items": [
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/06/06/homekit-in-ios.html",
 			"content_html": "<p>HomeKit in iOS 11 FINALLY supports using multiple devices to determine if anyone is home! </p>\n",
-			"date_published": "2017-06-06T08:30:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/06/06/homekit-in-ios.html"
+			"date_published": "2017-06-06T01:30:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/06/06/homekit-in-ios.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/06/06/ios-location-privacy.html",
 			"content_html": "<p>iOS 11 Location Privacy settings allows the user to select “While Using The App”, even if the app doesn’t offer that as an option! Glad to see that Apple continues to protect users’ privacy!</p>\n\n<p><img src=\"http://joe.duvall.micro.blog/uploads/2017/7d6bbdd1d7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T08:27:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/06/06/ios-location-privacy.html"
+			"date_published": "2017-06-06T01:27:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/06/06/ios-location-privacy.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/06/01/wow-right-when.html",
 			"content_html": "<p>Wow. Right when I thought Nintendo might be getting the hang of online gaming! <a href=\"https://arstechnica.com/gaming/2017/06/switchs-first-chat-headset-is-a-mess-and-thats-nintendos-fault/\">arstechnica.com/gaming/20…</a></p>\n",
-			"date_published": "2017-06-01T18:19:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/06/01/wow-right-when.html"
+			"date_published": "2017-06-01T11:19:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/06/01/wow-right-when.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/05/31/managed-to-get.html",
 			"content_html": "<p>Managed to get tickets to The Talk Show Live from WWDC 2017 before they sold out! Super excited!</p>\n",
-			"date_published": "2017-05-31T16:13:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/05/31/managed-to-get.html"
+			"date_published": "2017-05-31T09:13:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/05/31/managed-to-get.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/05/25/published-my-first.html",
 			"content_html": "<p>Published <a href=\"https://ifttt.com/applets/QrZgNXLm-turn-off-hue-and-caseta-lights-when-nest-is-set-to-away\">my first custom IFTTT Applet</a>! Their new Maker platform makes IFTTT much more useful and powerful.</p>\n",
-			"date_published": "2017-05-25T04:52:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/05/25/published-my-first.html"
+			"date_published": "2017-05-24T21:52:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/05/24/published-my-first.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/05/22/slingstudio-looks-pretty.html",
 			"content_html": "<p>SlingStudio looks pretty cool. It’s a shame I don’t have a use for it. I guess now we know why Slingbox hasn’t been getting much attention lately… <a href=\"https://www.myslingstudio.com/slingstudio\">www.myslingstudio.com/slingstud…</a></p>\n",
-			"date_published": "2017-05-22T16:57:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/05/22/slingstudio-looks-pretty.html"
+			"date_published": "2017-05-22T09:57:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/05/22/slingstudio-looks-pretty.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/05/19/things-from-cultured.html",
 			"content_html": "<p>Things 3 from Cultured Code looks fantastic. The limitations of it worry me a bit, but I’m hoping I can integrate it into my workflow. </p>\n",
-			"date_published": "2017-05-19T14:22:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/05/19/things-from-cultured.html"
+			"date_published": "2017-05-19T07:22:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/05/19/things-from-cultured.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/05/03/hulu-live-tv.html",
 			"content_html": "<p>Hulu Live TV appears to be much better than YouTube TV. However, they are continuing the trend of TV apps that emphasize content over channel surfing. Those used to old TV paradigms may therefore find the app hard to navigate. That’s my first impression – more thoughts soon. </p>\n",
-			"date_published": "2017-05-03T20:56:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/05/03/hulu-live-tv.html"
+			"date_published": "2017-05-03T13:56:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/05/03/hulu-live-tv.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/04/30/on-ios-changing.html",
 			"content_html": "<p>On iOS 10.3.1, changing an app’s icon only triggers a pop-up on some of my apps. Is anyone else seeing this?</p>\n\n<p>For me, these apps <em>never</em> show a pop-up:</p>\n\n<ul>\n  <li>Narwhal</li>\n  <li>Hello Weather</li>\n</ul>\n\n<p>And these <em>always</em> show it:</p>\n\n<ul>\n  <li>MLB At Bat</li>\n  <li>Overcast</li>\n</ul>\n",
-			"date_published": "2017-04-30T07:11:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/04/30/on-ios-changing.html"
+			"date_published": "2017-04-30T00:11:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/04/30/on-ios-changing.html"
 		},
 		
 		{
 			"id": "http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html",
 			"content_html": "<p>If you enjoy Tetris, you won’t be disappointed by Puyo Puyo Tetris for Switch. Note that local multiplayer isn’t great – the controls were clearly built for d-pad, and playing with a control stick (Pro Controller or single Joy-Con) leads to lots of frustrating accidental input. </p>\n",
-			"date_published": "2017-04-29T23:49:00+00:00",
-			"url": "http://joe.duvall.micro.blog/2017/04/29/if-you-enjoy.html"
+			"date_published": "2017-04-29T16:49:00-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2017/04/29/if-you-enjoy.html"
 		}
 		
 	]
