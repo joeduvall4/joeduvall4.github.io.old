@@ -152,7 +152,7 @@
 		{
 			"id": "http://joe.duvall.micro.blog/2017/06/02/t870479805329809408.html",
 	      	
-			"content_html": "<p>PSA: SMS wasn’t made to be secure, and <a href=\"https://medium.com/@CodyBrown/how-to-lose-8k-worth-of-bitcoin-in-15-minutes-with-verizon-and-coinbase-com-ba75fb8d0bac\">cell carriers are terrible with security</a>! Don’t use SMS for login. Question companies that require it.</p>\n\n<p>Cell carriers: step up your security game.\nService providers: allow Google Authenticator instead of SMS. \nIt’s 2017. This stuff matters.</p>\n",
+			"content_html": "<p>PSA: SMS wasn’t made to be secure, and <a href=\"https://medium.com/@CodyBrown/how-to-lose-8k-worth-of-bitcoin-in-15-minutes-with-verizon-and-coinbase-com-ba75fb8d0bac\">cell carriers are terrible with security</a>! Don’t use SMS for login. Question companies that require it.</p>\n\n<p>Cell carriers: step up your security game.</p>\n\n<p>Service providers: allow Google Authenticator instead of SMS.</p>\n\n<p>It’s 2017. This stuff matters.</p>\n",
 			"date_published": "2017-06-01T20:18:52-07:00",
 			"url": "http://micro.blog.joe.duvall.me/2017/06/01/t870479805329809408.html"
 		},
