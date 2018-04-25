@@ -3,12 +3,17 @@ layout: default
 ---
 <header class="masthead">
   <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s microblog</span></a>
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
   </h1>
   <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
+	{% assign sorted_pages = site.pages | sort: "order" %}
+	{% for page in sorted_pages %}
+		{% if page.title %}
+			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		{% endif %}
+	{% endfor %}
+
+	<a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
   </nav>
 </header>
 <div class="content list h-feed">
@@ -17,6 +22,9 @@ layout: default
 {% else %}
 {% for post in paginator.posts %}
   <div class="list-item h-entry">
+	{% if post.microblog == false %}
+		<h1 class="home-title">{{ post.title }}</h1>
+	{% endif %}
     <div class="content post e-content">
       {{ post.content }}
     </div>
