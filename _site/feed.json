@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://joe.duvall.micro.blog/2018/04/25/enjoying-the-new.html",
+	      	
+			"content_html": "<p>Enjoying the new Gmail redesign! It’s mostly solid, with a few rough edges, but it’s not labeled beta. Amusing that the original Gmail carried a “beta” tag for 5 years, but this redesign does not!</p>\n",
+			"date_published": "2018-04-25T15:05:59-07:00",
+			"url": "http://micro.blog.joe.duvall.me/2018/04/25/enjoying-the-new.html"
+		},
+		
+		{
 			"id": "http://joe.duvall.micro.blog/2018/04/20/t987396946917670912.html",
 	      	
 			"content_html": "<p>Devastated to hear that Avicii has died.</p>\n\n<p>His breakout hit, Levels, is the song that I credit most with sparking my love of EDM and defining my musical taste to this day.</p>\n\n<p>Gone way too soon. Rest In Peace, and thank you for the incredible music.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>SlingStudio looks pretty cool. It’s a shame I don’t have a use for it. I guess now we know why Slingbox hasn’t been getting much attention lately… <a href=\"https://www.myslingstudio.com/slingstudio\">www.myslingstudio.com/slingstud…</a></p>\n",
 			"date_published": "2017-05-22T09:57:25-07:00",
 			"url": "http://micro.blog.joe.duvall.me/2017/05/22/slingstudio-looks-pretty.html"
-		},
-		
-		{
-			"id": "http://joe.duvall.micro.blog/2017/05/19/things-from-cultured.html",
-	      	
-			"content_html": "<p>Things 3 from Cultured Code looks fantastic. The limitations of it worry me a bit, but I’m hoping I can integrate it into my workflow.</p>\n",
-			"date_published": "2017-05-19T07:22:43-07:00",
-			"url": "http://micro.blog.joe.duvall.me/2017/05/19/things-from-cultured.html"
 		}
 		
 	]
