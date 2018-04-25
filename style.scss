@@ -231,6 +231,7 @@ pre code {
 img {
   display: block;
   max-width: 100%;
+  height: auto;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -449,4 +450,9 @@ tbody tr:nth-child(odd) th {
 
 #post-nav .prev {
 	padding-right: 10px;
+}
+
+.home-title {
+	font-size: 1.2em;
+	margin-bottom: 10px;
 }
