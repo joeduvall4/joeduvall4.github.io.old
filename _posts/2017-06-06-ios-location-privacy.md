@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-06-06 01:27 -0700
+microblog: true
+audio: 
+date: 2017-06-06 01:27:48 -0700
 guid: http://joe.duvall.micro.blog/2017/06/06/ios-location-privacy.html
 ---
 iOS 11 Location Privacy settings allows the user to select “While Using The App”, even if the app doesn’t offer that as an option! Glad to see that Apple continues to protect users’ privacy!
